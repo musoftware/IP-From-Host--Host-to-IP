@@ -1,0 +1,19 @@
+c:\users\mu\documents\visual studio 2012\Projects\Musoftware IP\Musoftware IP\bin\Debug\Musoftware IP.exe
+c:\users\mu\documents\visual studio 2012\Projects\Musoftware IP\Musoftware IP\bin\Debug\Musoftware IP.pdb
+c:\users\mu\documents\visual studio 2012\Projects\Musoftware IP\Musoftware IP\bin\Debug\Musoftware IP.xml
+c:\users\mu\documents\visual studio 2012\Projects\Musoftware IP\Musoftware IP\obj\Debug\Musoftware_IP.Form1.resources
+c:\users\mu\documents\visual studio 2012\Projects\Musoftware IP\Musoftware IP\obj\Debug\Musoftware_IP.Resources.resources
+c:\users\mu\documents\visual studio 2012\Projects\Musoftware IP\Musoftware IP\obj\Debug\Musoftware IP.vbproj.GenerateResource.Cache
+c:\users\mu\documents\visual studio 2012\Projects\Musoftware IP\Musoftware IP\obj\Debug\Musoftware IP.exe
+c:\users\mu\documents\visual studio 2012\Projects\Musoftware IP\Musoftware IP\obj\Debug\Musoftware IP.xml
+c:\users\mu\documents\visual studio 2012\Projects\Musoftware IP\Musoftware IP\obj\Debug\Musoftware IP.pdb
+D:\MU_SOFT_PJ\123NewLive\INTERNET\Musoftware IP\Musoftware IP\obj\Debug\Musoftware IP.exe
+D:\MU_SOFT_PJ\123NewLive\INTERNET\Musoftware IP\Musoftware IP\obj\Debug\Musoftware IP.xml
+D:\MU_SOFT_PJ\123NewLive\INTERNET\Musoftware IP\Musoftware IP\obj\Debug\Musoftware IP.pdb
+D:\MU_SOFT_PJ\123NewLive\INTERNET\Musoftware IP\Musoftware IP\bin\Debug\Musoftware IP.exe
+D:\MU_SOFT_PJ\123NewLive\INTERNET\Musoftware IP\Musoftware IP\bin\Debug\Musoftware IP.pdb
+D:\MU_SOFT_PJ\123NewLive\INTERNET\Musoftware IP\Musoftware IP\bin\Debug\Musoftware IP.xml
+D:\MU_SOFT_PJ\123NewLive\INTERNET\Musoftware IP\Musoftware IP\obj\Debug\Musoftware IP.vbprojResolveAssemblyReference.cache
+D:\MU_SOFT_PJ\123NewLive\INTERNET\Musoftware IP\Musoftware IP\obj\Debug\Musoftware_IP.Form1.resources
+D:\MU_SOFT_PJ\123NewLive\INTERNET\Musoftware IP\Musoftware IP\obj\Debug\Musoftware_IP.Resources.resources
+D:\MU_SOFT_PJ\123NewLive\INTERNET\Musoftware IP\Musoftware IP\obj\Debug\Musoftware IP.vbproj.GenerateResource.Cache
